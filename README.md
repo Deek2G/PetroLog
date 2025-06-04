@@ -1,2 +1,2 @@
 # PetroLog
-PetroLog is a cross-platform mobile app using Flutter and Dart, designed to help users track their fuel consumption, mileage, and vehicle-related expenses.
+PetroLog is a cross-platform mobile app using Flutter and Dart, designed to help users track their fuel consumption, mileage, and vehicle-related expenses. To ensure real-time data synchronization and secure cloud storage, I integrated Firebase services, including Firestore for database management and Firebase Authentication for user login and account security. The app features a clean, user-friendly interface, detailed fuel log entries, expense summaries, and visual insights to help users understand their driving habits and costs. It’s built to be scalable, reliable, and accessible from any device.
