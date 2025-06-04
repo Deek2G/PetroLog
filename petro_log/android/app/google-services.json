@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698641367025",
+    "project_id": "petro-log-xflogn",
+    "storage_bucket": "petro-log-xflogn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698641367025:android:3308a3a0f0a2d0f3434e50",
+        "android_client_info": {
+          "package_name": "com.mycompany.petrolog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkjLaWuY4F6lPjYv0aSFo5wMVrbadRBCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
